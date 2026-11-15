@@ -33,3 +33,4 @@ youtube-search
 youtube-search-python
 py-yt-search
 yt-dlp>=2024.0.0
+six
